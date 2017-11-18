@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Example content"
+title: "王座的收藏"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+非常有料.
 
 [Link to another page: About]({{ site.baseurl }}/about).
 

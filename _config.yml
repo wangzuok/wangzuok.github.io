@@ -1,5 +1,6 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+<<<<<<< HEAD
+title: 王座的博客
+description:此为王座的专属博客，内容精彩，独树一帜.
 show_downloads: true
 
 baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -25,3 +26,6 @@ facebook:
   app_id: 1798910940422432 # cayman-blog
   #authors: lorepirri
 #  admins:
+=======
+theme: jekyll-theme-cayman
+>>>>>>> parent of f413532... first blood

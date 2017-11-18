@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post content styles"
+title: "王的宝藏"
 tagline: "This post demonstrates post content styles"
 categories: junk
 image: /thumbnail-mobile.png
@@ -8,7 +8,7 @@ author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+宝藏全为王座珍藏，绝对是精品中的精品.
 
 ## Some great heading (h2)
 
